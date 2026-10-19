@@ -1,0 +1,88 @@
+{
+  "version": "49_SUITE_ALPHA50",
+  "applications": [
+    "Menu",
+    "Demo",
+    "Taisei Stage1"
+  ],
+  "fpga_scanline_id": "0x46534c06",
+  "fpga_changed": false,
+  "flash_written": true,
+  "cold_boot_verified": false,
+  "flash_decoded_bytes": 3796992,
+  "required_flash_capacity": 4194304,
+  "physical_flash_expected": 8388608,
+  "combined_sha256": "1156cee98ffe37d0ecbac6fcbb3f2fc1bb2d942999de42a73133e825218372b0",
+  "hardware_bit_sha256": "82541577a76d2a25d7a62f0fb9ae3c68a641af6004f68c9cf081a194d71a32cd",
+  "regions": [
+    {
+      "name": "FPGA",
+      "address": 0,
+      "bytes": 866056,
+      "crc32": 273942450
+    },
+    {
+      "name": "Suite header",
+      "address": 917504,
+      "bytes": 72,
+      "crc32": 1663304053
+    },
+    {
+      "name": "Menu",
+      "address": 3670016,
+      "bytes": 126976,
+      "crc32": 2800065569
+    },
+    {
+      "name": "Demo",
+      "address": 921600,
+      "bytes": 126976,
+      "crc32": 321534239
+    },
+    {
+      "name": "Game",
+      "address": 1048576,
+      "bytes": 126976,
+      "crc32": 894766154
+    },
+    {
+      "name": "Demo background",
+      "address": 2686976,
+      "bytes": 553024,
+      "crc32": 1929303716
+    },
+    {
+      "name": "Game assets",
+      "address": 1179648,
+      "bytes": 1460652,
+      "crc32": 1603130417
+    }
+  ],
+  "program_switch": "DDR trampoline copies selected app into CPU RAM; no host computation",
+  "game_alpha": {
+    "player_shot": 128,
+    "power": 128,
+    "point": 128,
+    "trails": [
+      80,
+      32
+    ]
+  },
+  "vendor_verify": true,
+  "full_readback_match": true,
+  "flash_cpu_and_assets_boot_verified": true,
+  "menu_demo_game_menu_verified": true,
+  "screen_visually_verified": false,
+  "distribution": "flash-only",
+  "packaged_on": "2026-10-19",
+  "files_sha256": {
+    "04_Firmware/components/demo.bin": "68355f0fe23ec2ad9b4039f2b713775bdce9b88eabf6f92ac97a244ba3caa2ea",
+    "04_Firmware/components/fpga.hex": "13021d51f40b30c27fb91d280dbc9406dd7e8cb1a6a214ca43f0ffca77d23730",
+    "04_Firmware/components/FrameSpeed.bit": "82541577a76d2a25d7a62f0fb9ae3c68a641af6004f68c9cf081a194d71a32cd",
+    "04_Firmware/components/game.bin": "ef27a866c8f60f98108fe0864ee70eab433e2d0a8a0556991942688d142c8cec",
+    "04_Firmware/components/menu.bin": "35b9716b589ab3405f848698ec6ec1881e07e99776940057ec5a2fcd2a6dd332",
+    "04_Firmware/components/suite_header.bin": "8cf180faa76d7a5e9d44c2fb1811e25a932e414ac1fb720833a5103be69d8387",
+    "03_Assets/game_assets.bin": "bedd737f0bc6e0b967a8ef9d5de2cf734cefc2a2586cf04856861a1b1b3869d1",
+    "03_Assets/background_store.bin": "be45842b5acbc645eac93660eb33f13e8edbc05d320c27eebe2d6b4f4ef1a4fc"
+  }
+}

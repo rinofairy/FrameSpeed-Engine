@@ -1,0 +1,27 @@
+{
+  "source": "F:\\\u6613\u7075\u601d\u7b2c\u4e8c\u9898\\\u4ea4\u4ed8\\FrameSpeed_20261014\\03_Game\\assets\\taisei\\v1.2_cirnobg.png",
+  "source_sha256": "26a94922108074b7b23b05995312ae887b57562f0faca1b44cab80af0182feec",
+  "crop": [
+    0,
+    40,
+    512,
+    472
+  ],
+  "placement": [
+    64,
+    0
+  ],
+  "size": [
+    640,
+    432
+  ],
+  "scaled": false,
+  "darkened": false,
+  "format": "RGB565 little endian",
+  "bytes": 552960,
+  "address": "0x740000",
+  "sha256": "3b3140d60d75c8dfb601fce036ffeb985d1d22c1fa330d4394dae5c36063c9f9",
+  "source_url": "https://raw.githubusercontent.com/taisei-project/taisei/v1.2/resources/gfx/stage1/cirnobg.png",
+  "source_version": "Taisei v1.2",
+  "original_in_experiment": "assets/taisei/v1.2_cirnobg.png"
+}

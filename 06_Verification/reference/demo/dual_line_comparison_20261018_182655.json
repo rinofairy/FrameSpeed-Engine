@@ -1,0 +1,24 @@
+{
+  "board_accessed": true,
+  "flash_written": false,
+  "background": 1,
+  "alpha": 192,
+  "key_enabled": true,
+  "sprite_size": [
+    24,
+    24
+  ],
+  "cpu_overlap": 1,
+  "command_dma": 0,
+  "optimization": 0,
+  "same_load": [
+    "06_Verification\\overlap_point_20261018_182655\\performance.json",
+    "06_Verification\\overlap_point_20261018_182705\\performance.json",
+    "06_Verification\\overlap_point_20261018_182715\\performance.json",
+    "06_Verification\\overlap_point_20261018_182725\\performance.json",
+    "06_Verification\\overlap_point_20261018_182735\\performance.json",
+    "06_Verification\\overlap_point_20261018_182745\\performance.json"
+  ],
+  "capacity": "06_Verification\\overlap_limit_20261018_182755\\performance.json",
+  "completed": true
+}

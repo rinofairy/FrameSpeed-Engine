@@ -1,0 +1,95 @@
+{
+  "repository": "https://github.com/taisei-project/taisei",
+  "commit": "f4d3342226e915f369db8680688723adb18e4efa",
+  "sources": [
+    {
+      "path": "atlas/common/player/reimu.frame0003.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/player/reimu.frame0003.png",
+      "sha256": "f8930af38337b47e648643e32a2cf3aa8f8204b680b121859d8c222ec65e65b2",
+      "size": [
+        108,
+        132
+      ]
+    },
+    {
+      "path": "atlas/common/boss/cirno.frame0003.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/boss/cirno.frame0003.png",
+      "sha256": "36048a87bd8ad3ea083b7d1ac92e8a9161a3075ef9c5e776726933e575f86de5",
+      "size": [
+        148,
+        220
+      ]
+    },
+    {
+      "path": "atlas/common/enemy/fairy_blue.frame0000.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/enemy/fairy_blue.frame0000.webp",
+      "sha256": "068ac3b4553e10815460f4851cf17218b94f9a72b0ae864f7cf30fca533928ef",
+      "size": [
+        68,
+        82
+      ]
+    },
+    {
+      "path": "atlas/common/enemy/fairy_blue.frame0002.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/enemy/fairy_blue.frame0002.webp",
+      "sha256": "2f7765e27450051383f4a2d3cc59be10e1b02be1da26fe784c23bee7c78f6792",
+      "size": [
+        68,
+        82
+      ]
+    },
+    {
+      "path": "atlas/common/item/power.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/item/power.png",
+      "sha256": "00d3d38f39b03a9a7fce440ee192ebb3f8bfffab2d82add07084e22b4171a68b",
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "path": "atlas/common/item/point.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/item/point.png",
+      "sha256": "e374decb67a2626e13373f8352fddf5454df43e94596e5e155dd7dc3f77adbdd",
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "path": "atlas/common/part/stardust.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/part/stardust.webp",
+      "sha256": "6c630ce1cef21e7230c99f3900b4ab403a53fe1258297e4fe2e58302a73db094",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "path": "atlas/common_ui/hud/heart.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common_ui/hud/heart.webp",
+      "sha256": "04e542df400330aa2498b6b4bca2475c1da3f95f4bec729aa82749179f9701d3",
+      "size": [
+        32,
+        28
+      ]
+    },
+    {
+      "path": "atlas/common_ui/difficulty/lunatic.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common_ui/difficulty/lunatic.webp",
+      "sha256": "53d84ced6eb4bbde673fa8849e580535e545505be9b42bd841429ac7b584a758",
+      "size": [
+        393,
+        229
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/v1.2/resources/gfx/hud.png",
+      "sha256": "cae3ef2483fd328681a37c85c8233830bca7e9e04babd85f92387ff7026c7a5f",
+      "size": [
+        800,
+        600
+      ]
+    }
+  ]
+}

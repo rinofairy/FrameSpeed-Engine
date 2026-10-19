@@ -1,0 +1,5 @@
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup><OutputType>WinExe</OutputType><PlatformTarget>x64</PlatformTarget><TargetFrameworkVersion>v4.0</TargetFrameworkVersion><AssemblyName>FrameSpeedSerial</AssemblyName><OutputPath>build\</OutputPath><CodePage>65001</CodePage></PropertyGroup>
+  <ItemGroup><Reference Include="System"/><Reference Include="System.Core"/><Reference Include="System.Drawing"/><Reference Include="System.Windows.Forms"/><Compile Include="FrameSpeedSerial.cs"/><Compile Include="AsyncSerial.cs"/><Compile Include="SerialToolTests.cs"/></ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

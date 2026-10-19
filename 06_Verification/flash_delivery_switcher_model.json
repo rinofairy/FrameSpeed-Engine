@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "actual_code_sha256": "2860002053cff2843cb92c08905d33c9b8534f1cf7ebeed034b5c0c3e4284bd8",
+  "cache_or_timing_verified": false,
+  "cases": [
+    {
+      "app": 0,
+      "instructions": 190482,
+      "writes": 31744
+    },
+    {
+      "app": 1,
+      "instructions": 1020025,
+      "writes": 170000
+    },
+    {
+      "app": 2,
+      "instructions": 2381468,
+      "writes": 396907
+    },
+    {
+      "app": 3,
+      "instructions": 200,
+      "writes": 0
+    }
+  ]
+}

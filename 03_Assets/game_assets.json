@@ -1,0 +1,164 @@
+{
+  "crc32": "b41bd266",
+  "bytes": 1460652,
+  "atlas_pixels": 8064,
+  "textures": [
+    {
+      "name": "PLAYER",
+      "width": 24,
+      "height": 28,
+      "offset": 0
+    },
+    {
+      "name": "PLAYER_ALT",
+      "width": 24,
+      "height": 28,
+      "offset": 672
+    },
+    {
+      "name": "BOSS",
+      "width": 28,
+      "height": 36,
+      "offset": 1344
+    },
+    {
+      "name": "FAIRY",
+      "width": 18,
+      "height": 20,
+      "offset": 2352
+    },
+    {
+      "name": "FAIRY_RED",
+      "width": 18,
+      "height": 20,
+      "offset": 2712
+    },
+    {
+      "name": "BIG_FAIRY",
+      "width": 24,
+      "height": 24,
+      "offset": 3072
+    },
+    {
+      "name": "HUGE_FAIRY",
+      "width": 28,
+      "height": 28,
+      "offset": 3648
+    },
+    {
+      "name": "SUPER_FAIRY",
+      "width": 32,
+      "height": 32,
+      "offset": 4432
+    },
+    {
+      "name": "SWIRL",
+      "width": 16,
+      "height": 16,
+      "offset": 5456
+    },
+    {
+      "name": "SHOT",
+      "width": 8,
+      "height": 16,
+      "offset": 5712
+    },
+    {
+      "name": "NEEDLE",
+      "width": 4,
+      "height": 20,
+      "offset": 5840
+    },
+    {
+      "name": "SEAL",
+      "width": 8,
+      "height": 8,
+      "offset": 5920
+    },
+    {
+      "name": "ORB",
+      "width": 24,
+      "height": 24,
+      "offset": 5984
+    },
+    {
+      "name": "CRYSTAL",
+      "width": 12,
+      "height": 12,
+      "offset": 6560
+    },
+    {
+      "name": "PLAIN",
+      "width": 12,
+      "height": 12,
+      "offset": 6704
+    },
+    {
+      "name": "RICE",
+      "width": 8,
+      "height": 12,
+      "offset": 6848
+    },
+    {
+      "name": "THICK",
+      "width": 10,
+      "height": 14,
+      "offset": 6944
+    },
+    {
+      "name": "POWER",
+      "width": 12,
+      "height": 12,
+      "offset": 7084
+    },
+    {
+      "name": "POINT",
+      "width": 12,
+      "height": 12,
+      "offset": 7228
+    },
+    {
+      "name": "RING",
+      "width": 4,
+      "height": 4,
+      "offset": 7372
+    },
+    {
+      "name": "SNOW",
+      "width": 6,
+      "height": 6,
+      "offset": 7388
+    },
+    {
+      "name": "OPTION",
+      "width": 12,
+      "height": 12,
+      "offset": 7424
+    },
+    {
+      "name": "ICE",
+      "width": 12,
+      "height": 12,
+      "offset": 7568
+    },
+    {
+      "name": "RED",
+      "width": 12,
+      "height": 12,
+      "offset": 7712
+    },
+    {
+      "name": "GREEN",
+      "width": 12,
+      "height": 12,
+      "offset": 7856
+    },
+    {
+      "name": "HIT",
+      "width": 8,
+      "height": 8,
+      "offset": 8000
+    }
+  ],
+  "sha256": "bedd737f0bc6e0b967a8ef9d5de2cf734cefc2a2586cf04856861a1b1b3869d1"
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "headless": true,
+  "board_accessed": false,
+  "flash_written": false,
+  "ram_only": true
+}

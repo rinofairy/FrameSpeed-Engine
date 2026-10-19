@@ -1,0 +1,41 @@
+{
+  "commit": "f4d3342226e915f369db8680688723adb18e4efa",
+  "sources": [
+    {
+      "path": "atlas/common/player/reimu.frame0000.png",
+      "file": "reimu.frame0000.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/player/reimu.frame0000.png",
+      "sha256": "db8a71092fda6a53e59b2e4bc71301e3435a7ae40dfacb26b59dc64faf69af11"
+    },
+    {
+      "path": "atlas/common/boss/cirno.frame0000.png",
+      "file": "cirno.frame0000.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/boss/cirno.frame0000.png",
+      "sha256": "b3cf2b389cb5fddfe1a8d9e579ab53dd7830fbe7cf94a33a0c51006b97e4d71f"
+    },
+    {
+      "path": "atlas/common/proj/bigball.webp",
+      "file": "bigball.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/proj/bigball.webp",
+      "sha256": "037e5074d5e486ca1d6e7b534f0b3646b119ceb9d36548a8503e77f3b27b6113"
+    },
+    {
+      "path": "atlas/common/proj/crystal.webp",
+      "file": "crystal.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/proj/crystal.webp",
+      "sha256": "47a3c3bfc5fab87cea4d234b1910b49bd1fa70ac03f15ff116b177a122f5f79f"
+    },
+    {
+      "path": "atlas/common/proj/plainball.webp",
+      "file": "plainball.webp",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/proj/plainball.webp",
+      "sha256": "010e977971c80dc3307e78beecaa127a3b53165d5e77f090293cc7ec0649cc1f"
+    },
+    {
+      "path": "atlas/common/proj/ofuda.png",
+      "file": "ofuda.png",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/atlas/common/proj/ofuda.png",
+      "sha256": "4b9e7d9396dd504da2c5755bd2dc9fc108217067214f35547366a5561bf296d6"
+    }
+  ]
+}

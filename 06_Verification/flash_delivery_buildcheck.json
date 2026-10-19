@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "board_accessed": false,
+  "flash_written": false,
+  "official_ide_clean_build": true,
+  "applications": {
+    "menu": true,
+    "demo": true,
+    "game": true
+  },
+  "flash_image_match": true,
+  "flash_sha256": "1156cee98ffe37d0ecbac6fcbb3f2fc1bb2d942999de42a73133e825218372b0",
+  "flash_text_format": "raw-byte-hex-crlf"
+}

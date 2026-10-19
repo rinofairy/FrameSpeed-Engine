@@ -1,0 +1,154 @@
+{
+  "passed": true,
+  "route_summary": [
+    {
+      "route": 0,
+      "samples": 45,
+      "fps10_min": 600,
+      "work_max_us": 11042,
+      "bullets_max": 388,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 1,
+      "samples": 1,
+      "fps10_min": 600,
+      "work_max_us": 9851,
+      "bullets_max": 264,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 2,
+      "samples": 20,
+      "fps10_min": 580,
+      "work_max_us": 17028,
+      "bullets_max": 1080,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 3,
+      "samples": 50,
+      "fps10_min": 600,
+      "work_max_us": 12385,
+      "bullets_max": 513,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 4,
+      "samples": 2,
+      "fps10_min": 600,
+      "work_max_us": 8912,
+      "bullets_max": 0,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 6,
+      "samples": 43,
+      "fps10_min": 600,
+      "work_max_us": 12842,
+      "bullets_max": 805,
+      "dropped_spawns": 0
+    },
+    {
+      "route": 7,
+      "samples": 240,
+      "fps10_min": 600,
+      "work_max_us": 14554,
+      "bullets_max": 878,
+      "dropped_spawns": 0
+    }
+  ],
+  "all_60fps": false,
+  "natural_full_stage_completed": true,
+  "invincible": true,
+  "player_fire": false,
+  "background": true,
+  "flash_written": false,
+  "screen_visually_verified": false,
+  "summary": [
+    {
+      "stage": 0,
+      "phase": 0,
+      "samples": 161,
+      "fps10_min": 580,
+      "fps10_avg": 599.8757763975156,
+      "work_max_us": 17028,
+      "logic_max_us": 4950,
+      "prepare_max_us": 13264,
+      "bullets_max": 1080,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 0,
+      "samples": 22,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 9528,
+      "logic_max_us": 1441,
+      "prepare_max_us": 5407,
+      "bullets_max": 288,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 1,
+      "samples": 41,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 9850,
+      "logic_max_us": 1405,
+      "prepare_max_us": 5584,
+      "bullets_max": 234,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 2,
+      "samples": 22,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 10390,
+      "logic_max_us": 2212,
+      "prepare_max_us": 7257,
+      "bullets_max": 485,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 3,
+      "samples": 51,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 14554,
+      "logic_max_us": 1894,
+      "prepare_max_us": 10805,
+      "bullets_max": 234,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 4,
+      "samples": 42,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 10580,
+      "logic_max_us": 1879,
+      "prepare_max_us": 6345,
+      "bullets_max": 381,
+      "spawns_dropped": 0
+    },
+    {
+      "stage": 1,
+      "phase": 5,
+      "samples": 61,
+      "fps10_min": 600,
+      "fps10_avg": 600.0,
+      "work_max_us": 14270,
+      "logic_max_us": 2904,
+      "prepare_max_us": 10333,
+      "bullets_max": 878,
+      "spawns_dropped": 0
+    }
+  ]
+}

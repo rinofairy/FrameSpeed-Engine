@@ -1,0 +1,36 @@
+{
+  "source_url": "https://raw.githubusercontent.com/taisei-project/taisei/v1.2/resources/gfx/stage1/cirnobg.png",
+  "source_sha256": "26a94922108074b7b23b05995312ae887b57562f0faca1b44cab80af0182feec",
+  "source_version": "Taisei v1.2",
+  "reference_animation": "upstream/taisei/src__stages__stage1__cirno.c",
+  "frozen_time": 0,
+  "extra_brightness": 0.35,
+  "resolution": [
+    64,
+    54
+  ],
+  "expansion": [
+    10,
+    8
+  ],
+  "palette": [
+    2179,
+    2147,
+    4292,
+    2212,
+    4293,
+    2146,
+    66,
+    4326,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "packed_bytes": 1728,
+  "note": "Offline frozen layered approximation from old artwork. Not an exact captured frame of the current PC renderer; snow overlay omitted."
+}

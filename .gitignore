@@ -1,0 +1,42 @@
+# Local board backups, USB details, logs and IDE working files
+.local/
+.metadata/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+**/build/
+**/outflow/
+**/.cache/
+**/*.log
+!06_Verification/**/*.log
+*.zip
+*.7z
+*.rar
+*.bak
+*.tmp
+
+# Local tool/compiler outputs; source-controlled verification JSON stays included
+06_Verification/rv32/*
+!06_Verification/rv32/result.json
+!06_Verification/rv32/test.log
+!06_Verification/rv32/build.log
+06_Verification/rv32_demo/*
+!06_Verification/rv32_demo/result.json
+!06_Verification/rv32_demo/test.log
+!06_Verification/rv32_demo/build.log
+
+# Board/software licenses and credentials are local, never part of this repository
+*.lic
+license.dat
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Delivery assets below are intentionally tracked:
+# 04_Firmware/FrameSpeed_Suite_flash.hex
+# 04_Firmware/components/*
+# 03_Assets/*.bin, *.rgb565
+# 05_SerialTool/FrameSpeedSerial.exe

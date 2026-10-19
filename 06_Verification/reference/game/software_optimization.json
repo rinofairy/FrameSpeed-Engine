@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "cpu_bin_sha256": "64bebed4aeef0ac0a74300c763e1c9c8abc42e9eec5936ccbdffe3abbcb290ba",
+  "fpga_changed": false,
+  "flash_written": false,
+  "screen_visually_verified": false,
+  "records": [
+    "midboss_recheck_20261018_215602",
+    "full_stage_20261018_215719",
+    "opening_combat_20261018_220411"
+  ],
+  "full_stage_seconds": 402.100774,
+  "full_stage_over_budget": 0,
+  "full_stage_all_60fps": true,
+  "universal_60fps_guarantee": false
+}

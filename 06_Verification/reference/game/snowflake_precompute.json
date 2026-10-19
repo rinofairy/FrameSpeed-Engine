@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "geometry_cases": 270,
+  "bullets_removed": false,
+  "table_bytes": 640,
+  "max_velocity_error_pixels_per_tick": 6.57531738301742e-05,
+  "note": "Same original .95 retention formula; direct index inversion preserves staggered emission order."
+}

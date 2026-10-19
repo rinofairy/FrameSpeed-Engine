@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "apps": [
+    "menu",
+    "demo",
+    "game"
+  ],
+  "flash_written": false,
+  "ram_only_build": true
+}

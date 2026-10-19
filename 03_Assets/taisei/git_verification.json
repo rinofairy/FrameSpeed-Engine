@@ -1,0 +1,32 @@
+[
+  {
+    "file": "reimu.frame0000.png",
+    "git_blob": "8d997cae695a174fa09fd870734e1b754d827504",
+    "verified": true
+  },
+  {
+    "file": "cirno.frame0000.png",
+    "git_blob": "4deb596480ccff636dd349a558a25368fa77f860",
+    "verified": true
+  },
+  {
+    "file": "bigball.webp",
+    "git_blob": "3e51e6d009c43953e4055407484eefee4991aef0",
+    "verified": true
+  },
+  {
+    "file": "crystal.webp",
+    "git_blob": "542ad9b87cc7184c0d868d089690b9aae2311613",
+    "verified": true
+  },
+  {
+    "file": "plainball.webp",
+    "git_blob": "2cea6a1d56708728ccad40ed0ff3253e2b3a5a1a",
+    "verified": true
+  },
+  {
+    "file": "ofuda.png",
+    "git_blob": "4fdb5ddf8efde785a5f53bc50abfc1fef19e3a81",
+    "verified": true
+  }
+]

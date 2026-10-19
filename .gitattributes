@@ -1,0 +1,10 @@
+# Preserve delivered bytes exactly (firmware/components are hash-verified).
+* -text
+*.bin binary
+*.bit binary
+*.exe binary
+*.elf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.rgb565 binary

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "flash_written": true,
+  "vendor_verify": true,
+  "full_readback_match": true,
+  "combined_sha256": "1156cee98ffe37d0ecbac6fcbb3f2fc1bb2d942999de42a73133e825218372b0",
+  "decoded_bytes": 3796992,
+  "backup": "F:\\易灵思第二题\\bringup\\results\\flash_suite_20261018\\original_flash_8m.bin"
+}

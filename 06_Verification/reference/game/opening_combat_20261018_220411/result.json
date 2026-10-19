@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "flash_written": false,
+  "screen_visually_verified": false,
+  "invincible": true,
+  "scripted_movement": true,
+  "injected_hp_or_power": false,
+  "samples": 45,
+  "kills": 77,
+  "power_max": 180,
+  "bullets_max": 373,
+  "fps10_min": 600,
+  "work_max_us": 9554,
+  "dropped_spawns": 0,
+  "cpu_bin_sha256": "64bebed4aeef0ac0a74300c763e1c9c8abc42e9eec5936ccbdffe3abbcb290ba"
+}

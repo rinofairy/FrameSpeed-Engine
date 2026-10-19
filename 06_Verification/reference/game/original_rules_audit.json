@@ -1,0 +1,359 @@
+{
+  "commit": "f4d3342226e915f369db8680688723adb18e4efa",
+  "enemy_hp": {
+    "SWIRL": 100,
+    "FAIRY": 400,
+    "BIG_FAIRY": 2000,
+    "HUGE_FAIRY": 8000,
+    "SUPER_FAIRY": 28000
+  },
+  "weapons": {
+    "FORWARD_DMG": 50,
+    "FORWARD_DELAY": 3,
+    "VOLLEY_DMG": 35,
+    "VOLLEY_DELAY": 16,
+    "SLAVE_HOMING_DMG": 175,
+    "SLAVE_HOMING_DELAY": 21,
+    "SLAVE_NEEDLE_DMG": 64,
+    "SLAVE_NEEDLE_DELAY": 3
+  },
+  "power_start": 100,
+  "power_item": 5,
+  "effective_power_max": 400,
+  "stored_power_max": 600,
+  "source_blob_verified": true,
+  "files": [
+    {
+      "path": "resources/00-taisei.pkgdir/shader/sprite_bullet.frag.glsl",
+      "sha256": "ec501de7cd0f1ba6aabf16e930b69d7b76f3cf01fd8794ad5816458aa7638666"
+    },
+    {
+      "path": "src/aniplayer.c",
+      "sha256": "5992f8e6b9bd6b9d863f57af93baeeb09cef943a78ebbbb61b2da40622fc20e6"
+    },
+    {
+      "path": "src/aniplayer.h",
+      "sha256": "2c3c3f9443fe5aeb3ff28bb7582bb0c5bf00d44d080b7acf4e440effe1e85ed7"
+    },
+    {
+      "path": "src/audio/stream/player.c",
+      "sha256": "04b046fb9821147f945af60ffaa10d8e9a0312d76c5a2be4f4a75ecd369d37f5"
+    },
+    {
+      "path": "src/audio/stream/player.h",
+      "sha256": "4912ea65dccb4ec8cb204310bfe8545a84985ba5dad8b07618545cf08b8cc526"
+    },
+    {
+      "path": "src/boss.c",
+      "sha256": "034639253ce359dc7b5a6a8c849497494720314f6d13510dce9d4669d435e00f"
+    },
+    {
+      "path": "src/boss.h",
+      "sha256": "e942c4daebd3aa25f6be1766aa158945827bc70a60f02942e970dc080f0a879b"
+    },
+    {
+      "path": "src/coroutine/taskdsl.c",
+      "sha256": "40ebd52c3fdfe356f5dfa859634e27746a914ae9d5b8daae6155497380758dbb"
+    },
+    {
+      "path": "src/coroutine/taskdsl.h",
+      "sha256": "3cfe93f8a95929ea18074103ee409a02f51fd20b3c67baf2ef2699bdaa880f28"
+    },
+    {
+      "path": "src/enemy.c",
+      "sha256": "8b42a88a1f57279a2d9acfe77be1cb360140e12968a74a3ea166803cf94d4775"
+    },
+    {
+      "path": "src/enemy.h",
+      "sha256": "1886757c776cb38b18985431b2a09920a79ad215aaee0df36d7378ef462e8a0d"
+    },
+    {
+      "path": "src/enemy_classes.c",
+      "sha256": "f2605ef146929e00c2d5c2ff042803a7bd9350c74a1452b9d0f2803a9f33e299"
+    },
+    {
+      "path": "src/enemy_classes.h",
+      "sha256": "fbc064b05ed05302addba75b3fc184f827d690b23261fe2b1044bc701c804220"
+    },
+    {
+      "path": "src/gamepad.h",
+      "sha256": "eb40b9b98f199607a4a45bd9447c3271f92d01ed9a4339fa913d5818b4f0f0ee"
+    },
+    {
+      "path": "src/global.h",
+      "sha256": "7a03f9e0580a0498605ee9b2ea33f165ba5d4030b4561cac4e884306ada43ca5"
+    },
+    {
+      "path": "src/item.c",
+      "sha256": "fdf663e6cf4d69af90a35ccdd6d76e295081511526532c09ef22d06b4d668011"
+    },
+    {
+      "path": "src/item.h",
+      "sha256": "0e9ff62b46c5abda3180b2303e82d8c632f02b08c48fbb77c7bd00efcc840b6b"
+    },
+    {
+      "path": "src/move.c",
+      "sha256": "fc6ea4c8052efeecdf1c6b94f3d3f9d917e8e8ffc77a421e3de5727b2aa7e70e"
+    },
+    {
+      "path": "src/move.h",
+      "sha256": "6688d169f7d86bdc39f9646c83b08cad09e71e41f09f48df1e57bf62fdcece3e"
+    },
+    {
+      "path": "src/player.c",
+      "sha256": "8b562f8ec8d8f0f294f4ddb81af61b86aba942ecec7bd5292a05cc93971bb8cb"
+    },
+    {
+      "path": "src/player.h",
+      "sha256": "d4af5f85f0d04c8cbdedc2c5f172dafa8ffe4d68a1513253ce7174e0c0dccaa6"
+    },
+    {
+      "path": "src/plrmodes.c",
+      "sha256": "357c1f776ccc3e42c6a16c8f66524914291412dc58b0bac3c3a50d1b9d6a4329"
+    },
+    {
+      "path": "src/plrmodes/reimu.c",
+      "sha256": "ad9d55950850124185525194cdaa57528201b85c4ee2781735de1e40ffe69096"
+    },
+    {
+      "path": "src/plrmodes/reimu.h",
+      "sha256": "c1f7e3197b2a1842d2fffd7848abb35534351b434f657afebf6f43745a6d3c51"
+    },
+    {
+      "path": "src/plrmodes/reimu_a.c",
+      "sha256": "cc383ca4a15f183dfd0c6f70db1507a51955ec0511e9aac1f7f08762f49b2c74"
+    },
+    {
+      "path": "src/plrmodes/reimu_a_entities.h",
+      "sha256": "930b8450ab55800364bee108c89b81b071d5ba41939b6ebe4d09effe53273778"
+    },
+    {
+      "path": "src/plrmodes/reimu_b.c",
+      "sha256": "57980cdf914df899e33f04a0fbf02e90953cb50cf2a72f87d0c75d12127a2427"
+    },
+    {
+      "path": "src/plrmodes/reimu_b_entities.h",
+      "sha256": "2d166966349607303a5ed8ae5bd8639bd40d241c3b4fabd693b4f6ce61d48aa5"
+    },
+    {
+      "path": "src/projectile.c",
+      "sha256": "b74f2b1008248f5333b9269cf4fcdd331ab5462f7e3acf04484d08471bc701b3"
+    },
+    {
+      "path": "src/projectile.h",
+      "sha256": "12b53bd6377d36de455cfd6757197f13154f6b8d15e9fb87a06e2057ff66dbc9"
+    },
+    {
+      "path": "src/replay/demoplayer.c",
+      "sha256": "712b3c0df5def7b6dbb01bce867bf838169c75b6f173fcc21b5b8efe7ab0e612"
+    },
+    {
+      "path": "src/replay/demoplayer.h",
+      "sha256": "f67e89133aef14842ceeb42317de44fc9df60917ae5d73c8d74a0dc05d30ecc7"
+    },
+    {
+      "path": "src/stages/stage1/background_anim.c",
+      "sha256": "4e7cdf68af36ac3bf87706ef619037240d1d67ea42e121f10da8f5e3033ededa"
+    },
+    {
+      "path": "src/stages/stage1/background_anim.h",
+      "sha256": "72f5eba38abc496cb595162be6693f2d32899b576b711776a6008589e6323041"
+    },
+    {
+      "path": "src/stages/stage1/cirno.c",
+      "sha256": "fb59b3b58ef1d02a9144512f47ab63ca732199ef5e02e297a48bbeed09b23c3c"
+    },
+    {
+      "path": "src/stages/stage1/cirno.h",
+      "sha256": "d4e17838fedd3efacf9680b80c889b7333d177aec07f454b38ca713fd6864212"
+    },
+    {
+      "path": "src/stages/stage1/draw.c",
+      "sha256": "896eedd1a359a99c5d145f979665c2e3052c0000ad442a3491a533b79e88ad3a"
+    },
+    {
+      "path": "src/stages/stage1/draw.h",
+      "sha256": "c28e92edee9bac0f18fc0cd8bbf69370883409edec6085c3fdf788723849ae60"
+    },
+    {
+      "path": "src/stages/stage1/entities.h",
+      "sha256": "fcecf9feced5bb623db7c1746f9fdcd4b465856de61c14c8dc4504c949f5eb9a"
+    },
+    {
+      "path": "src/stages/stage1/misc.c",
+      "sha256": "153cb1b6f968fc1163f11d4a4c02a38b010f32bb8cc4b72683eb4d4cd2f12a14"
+    },
+    {
+      "path": "src/stages/stage1/misc.h",
+      "sha256": "0f6ff468885b4473ba447c689756791719292136eec67ca9ec3ba5d37b8eafe8"
+    },
+    {
+      "path": "src/stages/stage1/nonspells/boss_nonspell_1.c",
+      "sha256": "6544eab0ad8d18f0ebdddcc34aef7077204ffc86a997192dac0d5eff072316e3"
+    },
+    {
+      "path": "src/stages/stage1/nonspells/boss_nonspell_2.c",
+      "sha256": "025ebfaa9282b92aa692971e9176bf52217bfceed042c08321a8621deaa86067"
+    },
+    {
+      "path": "src/stages/stage1/nonspells/midboss_nonspell_1.c",
+      "sha256": "e54fb869b60e18d0c85437f730a69dd62b2d9a245eda1dcd6d5bf36e14543567"
+    },
+    {
+      "path": "src/stages/stage1/nonspells/nonspells.h",
+      "sha256": "3279a3797d1ed2524d5eee0902a552215ddc357acbbd8be39bcad79a119eaace"
+    },
+    {
+      "path": "src/stages/stage1/spells/benchmark.c",
+      "sha256": "38fb9dedef832673cba81d66874d7015433c49c3ff99a06e4bf8711ca5ccb03b"
+    },
+    {
+      "path": "src/stages/stage1/spells/crystal_blizzard.c",
+      "sha256": "dc66757dbc153d46b19cff9301b628ed75cc9f92d80f20b283edc58a1c6e2733"
+    },
+    {
+      "path": "src/stages/stage1/spells/crystal_rain.c",
+      "sha256": "6c3225f7fa060df341d9fd9c03e6f33f8653df83474c4ac5fb689261e5b1dc60"
+    },
+    {
+      "path": "src/stages/stage1/spells/icicle_cascade.c",
+      "sha256": "be87cf235cec935b23a54a05513589212a2bdae8f7946b56bed1414d0753741a"
+    },
+    {
+      "path": "src/stages/stage1/spells/perfect_freeze.c",
+      "sha256": "fb2b0596b10f00cc3acfb93f3bbcd63a9df64ebb96e1a9eb189ff7b7d663d0ee"
+    },
+    {
+      "path": "src/stages/stage1/spells/snow_halation.c",
+      "sha256": "dcac3a5c31674e55dedf7ed363d0b8e4258b46fa3c132dea87420bdaa30ef84a"
+    },
+    {
+      "path": "src/stages/stage1/spells/spells.h",
+      "sha256": "2f17e7601e53cf7a7cc12a79fa1abf113f7bed4df9cf6049e755fd80747f72ac"
+    },
+    {
+      "path": "src/stages/stage1/stage1.c",
+      "sha256": "f7bf2208930f79ccf561b5f1c4da770daaf3da8f41c74f20153d92d7a9094a69"
+    },
+    {
+      "path": "src/stages/stage1/stage1.h",
+      "sha256": "c2913ca3286a7863b531712cb5fd4e3708d9ccc2544f5df8c6e6d3c5c0336b12"
+    },
+    {
+      "path": "src/stages/stage1/timeline.c",
+      "sha256": "3bb4da1155501e9e7edd9b60392804243a9520cace83fe086bd69748c1f91bc2"
+    },
+    {
+      "path": "src/stages/stage1/timeline.h",
+      "sha256": "61e98db5449157f3c4062e873b9967174947e64afe9cc01fd0dcb2ec0b31253e"
+    },
+    {
+      "path": "src/util/miscmath.c",
+      "sha256": "da63608e58bb5a7632fd86066280c6f01fb7c6aca3f5e24a356a33621f509d05"
+    },
+    {
+      "path": "src/util/miscmath.h",
+      "sha256": "7956ed8913b8b473e399a9f84f61ffcd63112102b2f76413fddda30d7fda737e"
+    },
+    {
+      "path": "atlas/common/proj/bigball.webp",
+      "sha256": "037e5074d5e486ca1d6e7b534f0b3646b119ceb9d36548a8503e77f3b27b6113"
+    },
+    {
+      "path": "atlas/common/enemy/bigfairy.frame0000.webp",
+      "sha256": "ebb5498d89bbc77dc40dc3a5af1f79be286f2af5ee6169d6fd1c3f6e56c3eba0"
+    },
+    {
+      "path": "atlas/common/boss/cirno.frame0000.png",
+      "sha256": "b3cf2b389cb5fddfe1a8d9e579ab53dd7830fbe7cf94a33a0c51006b97e4d71f"
+    },
+    {
+      "path": "atlas/common/boss/cirno.frame0003.png",
+      "sha256": "36048a87bd8ad3ea083b7d1ac92e8a9161a3075ef9c5e776726933e575f86de5"
+    },
+    {
+      "path": "atlas/common/proj/crystal.webp",
+      "sha256": "47a3c3bfc5fab87cea4d234b1910b49bd1fa70ac03f15ff116b177a122f5f79f"
+    },
+    {
+      "path": "atlas/common/enemy/fairy_blue.frame0000.webp",
+      "sha256": "068ac3b4553e10815460f4851cf17218b94f9a72b0ae864f7cf30fca533928ef"
+    },
+    {
+      "path": "atlas/common/enemy/fairy_blue.frame0002.webp",
+      "sha256": "2f7765e27450051383f4a2d3cc59be10e1b02be1da26fe784c23bee7c78f6792"
+    },
+    {
+      "path": "atlas/common/enemy/fairy_red.frame0000.webp",
+      "sha256": "3b33e72ed8e180c4ad6ad6ee5b26490e31dab60c8c0824c31ddc0d14848a1b6f"
+    },
+    {
+      "path": "atlas/common/enemy/fairy_red.frame0002.webp",
+      "sha256": "4713b8b50d24aed56c84d32c0878042254f951ea245aa56070e476a0f1b41c38"
+    },
+    {
+      "path": "atlas/common/proj/hakurei_seal.png",
+      "sha256": "df206245e0314f65e059c492bb1a24159624e50ff95576d7ec9d6af4641f363d"
+    },
+    {
+      "path": "atlas/common_ui/hud/heart.webp",
+      "sha256": "04e542df400330aa2498b6b4bca2475c1da3f95f4bec729aa82749179f9701d3"
+    },
+    {
+      "path": "atlas/common/enemy/hugefairy.frame0000.webp",
+      "sha256": "07bd97e01eea65df93987fa8aae24472cdf1dee4bf2d703d30460674d1c67ff6"
+    },
+    {
+      "path": "atlas/common_ui/difficulty/lunatic.webp",
+      "sha256": "53d84ced6eb4bbde673fa8849e580535e545505be9b42bd841429ac7b584a758"
+    },
+    {
+      "path": "atlas/common/proj/needle.png",
+      "sha256": "a97da31c9678071b405784acc6aa4dcad093d05e8bb310cf9a5eadf29c4d17fa"
+    },
+    {
+      "path": "atlas/common/proj/ofuda.png",
+      "sha256": "4b9e7d9396dd504da2c5755bd2dc9fc108217067214f35547366a5561bf296d6"
+    },
+    {
+      "path": "atlas/common/proj/plainball.webp",
+      "sha256": "010e977971c80dc3307e78beecaa127a3b53165d5e77f090293cc7ec0649cc1f"
+    },
+    {
+      "path": "atlas/common/item/point.png",
+      "sha256": "e374decb67a2626e13373f8352fddf5454df43e94596e5e155dd7dc3f77adbdd"
+    },
+    {
+      "path": "atlas/common/item/power.png",
+      "sha256": "00d3d38f39b03a9a7fce440ee192ebb3f8bfffab2d82add07084e22b4171a68b"
+    },
+    {
+      "path": "atlas/common/player/reimu.frame0000.png",
+      "sha256": "db8a71092fda6a53e59b2e4bc71301e3435a7ae40dfacb26b59dc64faf69af11"
+    },
+    {
+      "path": "atlas/common/player/reimu.frame0003.png",
+      "sha256": "f8930af38337b47e648643e32a2cf3aa8f8204b680b121859d8c222ec65e65b2"
+    },
+    {
+      "path": "atlas/common/proj/rice.webp",
+      "sha256": "a44d8ad46dc929c490fd3ae38af8380808a7b45af4d0d4f6f54b960337153e39"
+    },
+    {
+      "path": "atlas/common/part/stardust.webp",
+      "sha256": "6c630ce1cef21e7230c99f3900b4ab403a53fe1258297e4fe2e58302a73db094"
+    },
+    {
+      "path": "atlas/common/enemy/superfairy.frame0000.webp",
+      "sha256": "d0ee9ca38b3e95fb57ce4f213259f33f4ed9ecdbce689cfbca5e767080abad67"
+    },
+    {
+      "path": "atlas/common/enemy/swirl.png",
+      "sha256": "50438dd08f9e6408ca882653b23302a70a67da9c1a7a07bd4f6632f367f4cf80"
+    },
+    {
+      "path": "atlas/common/proj/thickrice.webp",
+      "sha256": "be17084803ba316721bbd65a9e14aa811eb0bd6040d5b88c21680779f76461e3"
+    }
+  ]
+}

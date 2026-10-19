@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cpu_and_assets_loaded_from_flash": true,
+  "cpu_download_performed": false,
+  "fpga_configuration_loaded_via_jtag": true,
+  "power_cycle_cold_boot_verified": false,
+  "menu_demo_game_menu_pass": true,
+  "demo_pixel_check": true,
+  "game_pixel_check": true,
+  "screen_visually_verified": false
+}

@@ -1,0 +1,16 @@
+{
+  "board_accessed": true,
+  "flash_written": false,
+  "background": 1,
+  "alpha": 192,
+  "key_enabled": true,
+  "sprite_size": [
+    24,
+    24
+  ],
+  "cpu_overlap": 1,
+  "command_dma": 0,
+  "optimization": 0,
+  "same_load": [],
+  "capacity": null
+}

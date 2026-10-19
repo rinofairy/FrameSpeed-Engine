@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "temporary_sram_ram_loaded": true,
+  "cpu_only_reload": true,
+  "flash_written": false,
+  "screen_visually_verified": false,
+  "startup_pixel_check": true
+}

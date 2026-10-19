@@ -1,0 +1,8 @@
+{
+  "flash_address": 917504,
+  "ram_header": 7602112,
+  "ram_pixels": 7602176,
+  "bytes": 552960,
+  "crc32": 2979400939,
+  "header_bytes": 64
+}

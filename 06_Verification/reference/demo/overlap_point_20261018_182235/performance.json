@@ -1,0 +1,20 @@
+{
+  "board_accessed": true,
+  "flash_written": false,
+  "screen_visually_verified": false,
+  "overlap_implemented": true,
+  "ordinary_rectangles": true,
+  "sprite_size": [
+    24,
+    24
+  ],
+  "alpha": 192,
+  "key_enabled": true,
+  "line_overlap": 0,
+  "step": 32,
+  "moving": true,
+  "warmup_samples": 2,
+  "validation_samples": 20,
+  "rows": [],
+  "boundaries": []
+}

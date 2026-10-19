@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "all_60fps": true,
+  "background": true,
+  "invincible": true,
+  "practice_skip_used": true,
+  "screen_visually_verified": false,
+  "flash_written": false,
+  "summary": [
+    {
+      "fire": false,
+      "samples": 20,
+      "fps10_min": 600,
+      "work_max_us": 13184,
+      "logic_max_us": 3136,
+      "prepare_max_us": 10594,
+      "bullets_max": 1080,
+      "dropped_spawns": 0
+    },
+    {
+      "fire": true,
+      "samples": 16,
+      "fps10_min": 600,
+      "work_max_us": 13665,
+      "logic_max_us": 3208,
+      "prepare_max_us": 10866,
+      "bullets_max": 1080,
+      "dropped_spawns": 0
+    }
+  ],
+  "cpu_bin_sha256": "64bebed4aeef0ac0a74300c763e1c9c8abc42e9eec5936ccbdffe3abbcb290ba"
+}

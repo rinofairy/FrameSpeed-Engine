@@ -1,0 +1,96 @@
+{
+  "repository": "https://github.com/taisei-project/taisei",
+  "commit": "f4d3342226e915f369db8680688723adb18e4efa",
+  "files": [
+    {
+      "file": "COPYING.txt",
+      "upstream_path": "COPYING.txt",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/COPYING.txt",
+      "sha256": "507ba6eaceaf6fd923246480f53932b25a1ebbb25b2dd19c4f37bfc5fc83795a"
+    },
+    {
+      "file": "src__move.c",
+      "upstream_path": "src/move.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/move.c",
+      "sha256": "fc6ea4c8052efeecdf1c6b94f3d3f9d917e8e8ffc77a421e3de5727b2aa7e70e"
+    },
+    {
+      "file": "src__move.h",
+      "upstream_path": "src/move.h",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/move.h",
+      "sha256": "6688d169f7d86bdc39f9646c83b08cad09e71e41f09f48df1e57bf62fdcece3e"
+    },
+    {
+      "file": "src__stages__stage1__cirno.c",
+      "upstream_path": "src/stages/stage1/cirno.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/cirno.c",
+      "sha256": "fb59b3b58ef1d02a9144512f47ab63ca732199ef5e02e297a48bbeed09b23c3c"
+    },
+    {
+      "file": "src__stages__stage1__spells__crystal_rain.c",
+      "upstream_path": "src/stages/stage1/spells/crystal_rain.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/crystal_rain.c",
+      "sha256": "6c3225f7fa060df341d9fd9c03e6f33f8653df83474c4ac5fb689261e5b1dc60"
+    },
+    {
+      "file": "src__stages__stage1__stage1.c",
+      "upstream_path": "src/stages/stage1/stage1.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/stage1.c",
+      "sha256": "f7bf2208930f79ccf561b5f1c4da770daaf3da8f41c74f20153d92d7a9094a69"
+    },
+    {
+      "file": "src__stages__stage1__spells__spells.h",
+      "upstream_path": "src/stages/stage1/spells/spells.h",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/spells.h",
+      "sha256": "2f17e7601e53cf7a7cc12a79fa1abf113f7bed4df9cf6049e755fd80747f72ac"
+    },
+    {
+      "file": "src__stages__stage1__spells__crystal_blizzard.c",
+      "upstream_path": "src/stages/stage1/spells/crystal_blizzard.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/crystal_blizzard.c",
+      "sha256": "dc66757dbc153d46b19cff9301b628ed75cc9f92d80f20b283edc58a1c6e2733"
+    },
+    {
+      "file": "src__stages__stage1__spells__icicle_cascade.c",
+      "upstream_path": "src/stages/stage1/spells/icicle_cascade.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/icicle_cascade.c",
+      "sha256": "be87cf235cec935b23a54a05513589212a2bdae8f7946b56bed1414d0753741a"
+    },
+    {
+      "file": "src__stages__stage1__spells__perfect_freeze.c",
+      "upstream_path": "src/stages/stage1/spells/perfect_freeze.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/perfect_freeze.c",
+      "sha256": "fb2b0596b10f00cc3acfb93f3bbcd63a9df64ebb96e1a9eb189ff7b7d663d0ee"
+    },
+    {
+      "file": "src__stages__stage1__spells__snow_halation.c",
+      "upstream_path": "src/stages/stage1/spells/snow_halation.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/spells/snow_halation.c",
+      "sha256": "dcac3a5c31674e55dedf7ed363d0b8e4258b46fa3c132dea87420bdaa30ef84a"
+    },
+    {
+      "file": "src__stages__stage1__timeline.c",
+      "upstream_path": "src/stages/stage1/timeline.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/timeline.c",
+      "sha256": "3bb4da1155501e9e7edd9b60392804243a9520cace83fe086bd69748c1f91bc2"
+    },
+    {
+      "file": "src__stages__stage1__nonspells__nonspells.h",
+      "upstream_path": "src/stages/stage1/nonspells/nonspells.h",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/nonspells/nonspells.h",
+      "sha256": "3279a3797d1ed2524d5eee0902a552215ddc357acbbd8be39bcad79a119eaace"
+    },
+    {
+      "file": "src__stages__stage1__nonspells__boss_nonspell_1.c",
+      "upstream_path": "src/stages/stage1/nonspells/boss_nonspell_1.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/nonspells/boss_nonspell_1.c",
+      "sha256": "6544eab0ad8d18f0ebdddcc34aef7077204ffc86a997192dac0d5eff072316e3"
+    },
+    {
+      "file": "src__stages__stage1__nonspells__boss_nonspell_2.c",
+      "upstream_path": "src/stages/stage1/nonspells/boss_nonspell_2.c",
+      "url": "https://raw.githubusercontent.com/taisei-project/taisei/f4d3342226e915f369db8680688723adb18e4efa/src/stages/stage1/nonspells/boss_nonspell_2.c",
+      "sha256": "025ebfaa9282b92aa692971e9176bf52217bfceed042c08321a8621deaa86067"
+    }
+  ]
+}
